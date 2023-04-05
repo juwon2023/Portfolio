@@ -1095,6 +1095,9 @@ Responsive
 	float: left;
 	list-style: none;
 }
+
+
+
 .col-xl-12{
 
 	width: 50%;
@@ -1110,3 +1113,6 @@ Responsive
 	/* font-family: 'Noto Sans KR', sans-serif; */
 }
 
+.linone{
+	opacity: 0;
+}
