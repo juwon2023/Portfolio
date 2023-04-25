@@ -725,7 +725,7 @@ Hero section
 	position: absolute;
 	left: 0;
 	bottom: 0;
-	width: 277px;
+	width: 100%;
 	padding: 44px 0 10px 12px;
 	background: #0c081c75;
 	z-index: 1;
@@ -1084,6 +1084,9 @@ Responsive
 }
 .rabbit{
 	height: 151px;
+}
+.corn{
+	width: 136px;
 }
 
 .skill{
